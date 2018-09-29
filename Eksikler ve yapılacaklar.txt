@@ -1,0 +1,5 @@
+-Arkaplan bulma kodlarý daha efektif olabilir.
+-Boya ve Analiz klaslarý doldurulacak.
+-Performans arttýrmak için algoritmalar bulunabilir.
+-Bazý fonksiyonlar(siyah beyaza çevirmek ve render gibi) c++ ile yazýlýp
+ekran kartýna yaptýrýlýrsa performans daha yüksek olur.

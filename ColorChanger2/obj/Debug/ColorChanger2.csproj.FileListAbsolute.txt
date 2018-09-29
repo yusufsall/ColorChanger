@@ -1,0 +1,9 @@
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\bin\Debug\ColorChanger2.exe.config
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\bin\Debug\ColorChanger2.exe
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\bin\Debug\ColorChanger2.pdb
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\obj\Debug\ColorChanger2.csprojResolveAssemblyReference.cache
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\obj\Debug\ColorChanger2.Form1.resources
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\obj\Debug\ColorChanger2.Properties.Resources.resources
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\obj\Debug\ColorChanger2.csproj.GenerateResource.Cache
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\obj\Debug\ColorChanger2.exe
+c:\users\yusuf\documents\visual studio 2017\Projects\ColorChanger2\ColorChanger2\obj\Debug\ColorChanger2.pdb
